@@ -1,1 +1,1 @@
-{"FFlagDebugGraphicsPreferOpenGL":"true","FFlagDebugGraphicsDisableDirect3D11":"true","FFlagGraphicsGLTextureReduction":"true"}
+{"FFlagDebugGraphicsPreferVulkan":"true","FFlagDebugGraphicsDisableDirect3D11":"true"}
